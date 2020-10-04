@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome", "Welcome\Welcome.csproj", "{C40EB87E-ED1A-4BF2-A80E-BB4B73D91D40}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CC6318B-B5E3-414B-B104-BB77D3A4AB69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DairyFarmManager", "DairyFarmManager\DairyFarmManager.csproj", "{C40EB87E-ED1A-4BF2-A80E-BB4B73D91D40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,5 +20,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C40EB87E-ED1A-4BF2-A80E-BB4B73D91D40} = {4CC6318B-B5E3-414B-B104-BB77D3A4AB69}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE43DA6B-B119-4BEA-BCFA-21AAF8715DB8}
 	EndGlobalSection
 EndGlobal

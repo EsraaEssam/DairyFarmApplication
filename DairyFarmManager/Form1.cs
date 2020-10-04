@@ -42,8 +42,8 @@ namespace DBapplication
                 }
                 else if (status == "manger   ")
                 {
-                    manager m = new manager();
-                    m.Show();
+                    //manager m = new manager();
+                    //m.Show();
                 }
                 else if (status == "Agri.eng.")
                 {

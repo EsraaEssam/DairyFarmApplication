@@ -1,0 +1,3 @@
+# exclude build folders
+DairyFarmManager/bin
+DairyFarmManager/obj
